@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297817023506",
+    "firebase_url": "https://flash-chart-8fc65.firebaseio.com",
+    "project_id": "flash-chart-8fc65",
+    "storage_bucket": "flash-chart-8fc65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297817023506:android:6977f6b3f247bf8323e4cb",
+        "android_client_info": {
+          "package_name": "com.example.flush_chart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297817023506-tc74rkus7tufsblhj84g0ukg90d1amfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7xJr7Px60IW-VH6mjEVZzltEngVaiMfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297817023506-tc74rkus7tufsblhj84g0ukg90d1amfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
